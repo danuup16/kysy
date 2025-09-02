@@ -11,10 +11,10 @@
             "hwid": {},
             "generatedAt": 1756818528858,
             "keyIndex": 1,
-            "hwidResetAt": 1756821693048,
+            "hwidResetAt": 1756821726253,
             "specificReset": true,
             "adminReset": true,
-            "adminResetAt": 1756821693048,
+            "adminResetAt": 1756821726253,
             "adminResetType": "specific_key_admin"
           },
           {
@@ -92,13 +92,23 @@
               "resetType": "admin_specific_key",
               "roleId": "1412336702915219496",
               "dailyLimit": 5
+            },
+            {
+              "timestamp": 1756821726253,
+              "resetCount": 4,
+              "keysReset": 1,
+              "specificKey": "VIP_29f39745f684d37f232b0cfddc05c316",
+              "adminReset": true,
+              "resetType": "admin_specific_key",
+              "roleId": "1412336702915219496",
+              "dailyLimit": 5
             }
           ],
           "dailyLimit": 5,
           "roleId": "1412336702915219496"
         },
         "lastSpecificHwidReset": 1756819039970,
-        "lastAdminHwidReset": 1756821693048
+        "lastAdminHwidReset": 1756821726253
       }
     }
   }

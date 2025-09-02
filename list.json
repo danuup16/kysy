@@ -1,31 +1,4 @@
 {
   "codes": {},
-  "userRoles": {
-    "749729848536334336": {
-      "1406957343815766149": {
-        "roleId": "1411296365987889272",
-        "expiryDate": 1756800000024,
-        "keys": [
-          {
-            "key": "VIP_b43bf5e9beb3070dd95d58da1afc869f",
-            "hwid": {},
-            "generatedAt": 1756799607184,
-            "keyIndex": 1
-          },
-          {
-            "key": "VIP_cbcf5625008a9a5d1ea9857924a10ac5",
-            "hwid": {},
-            "generatedAt": 1756799687605,
-            "keyIndex": 2
-          }
-        ],
-        "duration": 10,
-        "createdAt": 1756799572575,
-        "redeemedAt": 1756799584140,
-        "lastKeyGenerated": 1756799687605,
-        "durationChangedAt": 1756799940787,
-        "durationChangedBy": "admin"
-      }
-    }
-  }
+  "userRoles": {}
 }

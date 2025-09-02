@@ -1,13 +1,15 @@
 {
-  "codes": {
-    "MVNP76WL": {
-      "roleId": "1411296365987889272",
-      "duration": 30,
-      "created": 1756786876238,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
+  "codes": {},
+  "userRoles": {
+    "749729848536334336": {
+      "1406957343815766149": {
+        "roleId": "1411296365987889272",
+        "expiryDate": 1759379066926,
+        "code": "MVNP76WL",
+        "duration": 30,
+        "createdAt": 1756786876238,
+        "redeemedAt": 1756787066926
+      }
     }
-  },
-  "userRoles": {}
+  }
 }

@@ -1,4 +1,13 @@
 {
-  "codes": {},
+  "codes": {
+    "3N7317K8": {
+      "roleId": "1411296365987889272",
+      "duration": 10,
+      "created": 1756805181203,
+      "used": false,
+      "usedBy": null,
+      "usedAt": null
+    }
+  },
   "userRoles": {}
 }

@@ -1,4 +1,13 @@
 {
-  "codes": {},
+  "codes": {
+    "MVNP76WL": {
+      "roleId": "1411296365987889272",
+      "duration": 30,
+      "created": 1756786876238,
+      "used": false,
+      "usedBy": null,
+      "usedAt": null
+    }
+  },
   "userRoles": {}
 }

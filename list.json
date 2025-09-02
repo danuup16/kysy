@@ -11,7 +11,7 @@
             "hwid": {},
             "generatedAt": 1756818528858,
             "keyIndex": 1,
-            "hwidResetAt": 1756818948461,
+            "hwidResetAt": 1756818959859,
             "specificReset": true
           },
           {
@@ -27,8 +27,8 @@
         "lastKeyGenerated": 1756818939783,
         "hwidResetTracking": {
           "lastResetDate": "Tue Sep 02 2025",
-          "resetCountToday": 2,
-          "totalResets": 2,
+          "resetCountToday": 3,
+          "totalResets": 3,
           "resetHistory": [
             {
               "timestamp": 1756818541938,
@@ -45,12 +45,21 @@
               "resetType": "specific",
               "roleId": "1412336702915219496",
               "dailyLimit": 5
+            },
+            {
+              "timestamp": 1756818959859,
+              "resetCount": 3,
+              "keysReset": 1,
+              "specificKey": "VIP_29f39745f684d37f232b0cfddc05c316",
+              "resetType": "specific",
+              "roleId": "1412336702915219496",
+              "dailyLimit": 5
             }
           ],
           "dailyLimit": 5,
           "roleId": "1412336702915219496"
         },
-        "lastSpecificHwidReset": 1756818948461
+        "lastSpecificHwidReset": 1756818959859
       }
     }
   }

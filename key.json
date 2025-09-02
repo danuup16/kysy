@@ -1,5 +1,14 @@
 {
-  "codes": {},
+  "codes": {
+    "IS1RJU6Z": {
+      "roleId": "1411296365987889272",
+      "duration": 10,
+      "created": 1756806222941,
+      "used": false,
+      "usedBy": null,
+      "usedAt": null
+    }
+  },
   "userRoles": {
     "749729848536334336": {
       "1406957343815766149": {

@@ -1,4 +1,13 @@
 {
-  "codes": {},
+  "codes": {
+    "MVHOR8Y7": {
+      "roleId": "1411296365987889272",
+      "duration": 10,
+      "created": 1756799572575,
+      "used": false,
+      "usedBy": null,
+      "usedAt": null
+    }
+  },
   "userRoles": {}
 }

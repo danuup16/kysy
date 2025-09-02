@@ -17,16 +17,19 @@
             "key": "VIP_73936e56bdadba70c3fb200fc7109084",
             "hwid": {},
             "generatedAt": 1756798287825,
-            "keyIndex": 1
+            "keyIndex": 1,
+            "hwidResetAt": 1756798336407
           },
           {
             "key": "VIP_dfa44bc753658efbefc58b7ba7a5c1d0",
             "hwid": {},
             "generatedAt": 1756798292657,
-            "keyIndex": 2
+            "keyIndex": 2,
+            "hwidResetAt": 1756798336407
           }
         ],
-        "lastKeyGenerated": 1756798292657
+        "lastKeyGenerated": 1756798292657,
+        "allHwidResetAt": 1756798336407
       }
     }
   }

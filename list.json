@@ -11,8 +11,11 @@
             "hwid": {},
             "generatedAt": 1756818528858,
             "keyIndex": 1,
-            "hwidResetAt": 1756819039969,
-            "specificReset": true
+            "hwidResetAt": 1756821675860,
+            "specificReset": true,
+            "adminReset": true,
+            "adminResetAt": 1756821675861,
+            "adminResetType": "specific_key_admin"
           },
           {
             "key": "VIP_b953e7ff4273cc0fa8705a82a026120e",
@@ -69,12 +72,23 @@
               "resetType": "specific",
               "roleId": "1412336702915219496",
               "dailyLimit": 5
+            },
+            {
+              "timestamp": 1756821675861,
+              "resetCount": 4,
+              "keysReset": 1,
+              "specificKey": "VIP_29f39745f684d37f232b0cfddc05c316",
+              "adminReset": true,
+              "resetType": "admin_specific_key",
+              "roleId": "1412336702915219496",
+              "dailyLimit": 5
             }
           ],
           "dailyLimit": 5,
           "roleId": "1412336702915219496"
         },
-        "lastSpecificHwidReset": 1756819039970
+        "lastSpecificHwidReset": 1756819039970,
+        "lastAdminHwidReset": 1756821675861
       }
     }
   }

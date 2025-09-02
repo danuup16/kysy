@@ -10,7 +10,8 @@
         "duration": 30,
         "createdAt": 1756786876238,
         "redeemedAt": 1756787066926,
-        "keyGeneratedAt": 1756797286674
+        "keyGeneratedAt": 1756797286674,
+        "hwidResetAt": 1756797385989
       }
     }
   }

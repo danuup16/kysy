@@ -4,11 +4,14 @@
     "749729848536334336": {
       "1406957343815766149": {
         "roleId": "1411296365987889272",
-        "expiryDate": 1757663584140,
+        "expiryDate": 1756800000024,
         "code": "MVHOR8Y7",
         "duration": 10,
         "createdAt": 1756799572575,
-        "redeemedAt": 1756799584140
+        "redeemedAt": 1756799584140,
+        "durationChangedAt": 1756799940024,
+        "durationChangedBy": "admin",
+        "oldExpiryDate": 1757663584140
       }
     }
   }

@@ -18,9 +18,15 @@
             "hwid": {},
             "generatedAt": 1756798287825,
             "keyIndex": 1
+          },
+          {
+            "key": "VIP_dfa44bc753658efbefc58b7ba7a5c1d0",
+            "hwid": {},
+            "generatedAt": 1756798292657,
+            "keyIndex": 2
           }
         ],
-        "lastKeyGenerated": 1756798287825
+        "lastKeyGenerated": 1756798292657
       }
     }
   }

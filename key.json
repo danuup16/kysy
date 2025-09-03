@@ -1,14 +1,5 @@
 {
-  "codes": {
-    "5YIJTCCN": {
-      "roleId": "1411296365987889272",
-      "duration": 3,
-      "created": 1756905161281,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
-    }
-  },
+  "codes": {},
   "userRoles": {
     "1364652407606349926": {
       "1406957343815766149": {
@@ -98,6 +89,16 @@
         "duration": 14,
         "createdAt": 1756904617270,
         "redeemedAt": 1756904649199
+      }
+    },
+    "1309710355974459424": {
+      "1406957343815766149": {
+        "roleId": "1411296365987889272",
+        "expiryDate": 1757164592136,
+        "code": "5YIJTCCN",
+        "duration": 3,
+        "createdAt": 1756905161281,
+        "redeemedAt": 1756905392137
       }
     }
   }

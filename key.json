@@ -7,15 +7,18 @@
       "used": false,
       "usedBy": null,
       "usedAt": null
-    },
-    "4Z9Q21H0": {
-      "roleId": "1411296365987889272",
-      "duration": 1,
-      "created": 1756880354273,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
     }
   },
-  "userRoles": {}
+  "userRoles": {
+    "749729848536334336": {
+      "1406957343815766149": {
+        "roleId": "1411296365987889272",
+        "expiryDate": 1756966764594,
+        "code": "4Z9Q21H0",
+        "duration": 1,
+        "createdAt": 1756880354273,
+        "redeemedAt": 1756880364594
+      }
+    }
+  }
 }

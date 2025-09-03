@@ -1,5 +1,14 @@
 {
-  "codes": {},
+  "codes": {
+    "UFQJ60ID": {
+      "roleId": "1412336702915219496",
+      "duration": 3,
+      "created": 1756893860469,
+      "used": false,
+      "usedBy": null,
+      "usedAt": null
+    }
+  },
   "userRoles": {
     "1364652407606349926": {
       "1406957343815766149": {

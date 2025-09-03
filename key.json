@@ -1,14 +1,5 @@
 {
-  "codes": {
-    "HAKFJF16": {
-      "roleId": "1412336702915219496",
-      "duration": 30,
-      "created": 1756889709683,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
-    }
-  },
+  "codes": {},
   "userRoles": {
     "1364652407606349926": {
       "1406957343815766149": {
@@ -48,6 +39,16 @@
         "duration": 3,
         "createdAt": 1756888075312,
         "redeemedAt": 1756888331133
+      }
+    },
+    "530727759887073280": {
+      "1406957343815766149": {
+        "roleId": "1412336702915219496",
+        "expiryDate": 1759481775584,
+        "code": "HAKFJF16",
+        "duration": 30,
+        "createdAt": 1756889709683,
+        "redeemedAt": 1756889775584
       }
     }
   }

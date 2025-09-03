@@ -1,4 +1,13 @@
 {
-  "codes": {},
+  "codes": {
+    "E9HD8ECG": {
+      "roleId": "1411296365987889272",
+      "duration": 1,
+      "created": 1756882111031,
+      "used": false,
+      "usedBy": null,
+      "usedAt": null
+    }
+  },
   "userRoles": {}
 }

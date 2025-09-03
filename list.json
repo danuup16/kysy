@@ -26,12 +26,18 @@
             "hwid": {},
             "generatedAt": 1756879000937,
             "keyIndex": 2
+          },
+          {
+            "key": "VIP_ffc24b807b217a583566baa2b540e59d",
+            "hwid": {},
+            "generatedAt": 1756879042432,
+            "keyIndex": 3
           }
         ],
         "duration": 1,
         "createdAt": 1756874859394,
         "redeemedAt": 1756874875690,
-        "lastKeyGenerated": 1756879000937,
+        "lastKeyGenerated": 1756879042432,
         "lastHwidManualSet": 1756876799998
       }
     }

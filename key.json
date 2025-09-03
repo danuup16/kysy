@@ -26,11 +26,14 @@
     "1364652407606349926": {
       "1406957343815766149": {
         "roleId": "1411296365987889272",
-        "expiryDate": 1756967062007,
+        "expiryDate": 1756881435679,
         "code": "DRLEXRYF",
         "duration": 1,
         "createdAt": 1756880647182,
-        "redeemedAt": 1756880662007
+        "redeemedAt": 1756880662007,
+        "durationChangedAt": 1756881375679,
+        "durationChangedBy": "admin",
+        "oldExpiryDate": 1756967062007
       }
     }
   }

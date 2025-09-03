@@ -8,18 +8,14 @@
         "keys": [
           {
             "key": "VIP_d5c05caa784a71dbcd3c73f60d464b33",
-            "hwid": {
-              "386B6DA3-1DBC-499E-99E6-5142AB630F61": {
-                "addedAt": 1756876799998,
-                "addedBy": "user_manual",
-                "deviceInfo": "Manual Set"
-              }
-            },
+            "hwid": {},
             "generatedAt": 1756874887107,
             "keyIndex": 1,
             "hwidSetAt": 1756876799998,
             "manualHwidSet": true,
-            "lastHwidUpdate": 1756876799998
+            "lastHwidUpdate": 1756876799998,
+            "hwidResetAt": 1756879571348,
+            "specificReset": true
           },
           {
             "key": "VIP_6ad711383da36fb7a3d70747d1b3d5ab",
@@ -47,7 +43,28 @@
         "createdAt": 1756874859394,
         "redeemedAt": 1756874875690,
         "lastKeyGenerated": 1756879042432,
-        "lastHwidManualSet": 1756879055529
+        "lastHwidManualSet": 1756879055529,
+        "hwidResetTracking": {
+          "lastResetTimestamp": 1756879571348,
+          "resetCountToday": 1,
+          "totalResets": 1,
+          "resetHistory": [
+            {
+              "timestamp": 1756879571348,
+              "resetCount": 1,
+              "keysReset": 1,
+              "specificKey": "VIP_d5c05caa784a71dbcd3c73f60d464b33",
+              "resetType": "specific",
+              "roleId": "1412336702915219496",
+              "dailyLimit": 5,
+              "validationTime": 1756879571348
+            }
+          ],
+          "roleId": "1412336702915219496",
+          "dailyLimit": 5,
+          "lastValidationTime": 1756879571348
+        },
+        "lastSpecificHwidReset": 1756879571348
       }
     }
   }

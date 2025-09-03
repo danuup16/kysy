@@ -1,14 +1,5 @@
 {
-  "codes": {
-    "XEBNTJ6H": {
-      "roleId": "1412336702915219496",
-      "duration": 30,
-      "created": 1756892414014,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
-    }
-  },
+  "codes": {},
   "userRoles": {
     "1364652407606349926": {
       "1406957343815766149": {
@@ -58,6 +49,16 @@
         "duration": 30,
         "createdAt": 1756889709683,
         "redeemedAt": 1756889775584
+      }
+    },
+    "436843418073956352": {
+      "1406957343815766149": {
+        "roleId": "1412336702915219496",
+        "expiryDate": 1759484697628,
+        "code": "XEBNTJ6H",
+        "duration": 30,
+        "createdAt": 1756892414014,
+        "redeemedAt": 1756892697628
       }
     }
   }

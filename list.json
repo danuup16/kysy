@@ -9,8 +9,8 @@
           {
             "key": "VIP_65de424f3c43a4bbbfd8c6ba78646437",
             "hwid": {
-              "386B6DA3-1DBC-499E-99E6-5142AB630F61s": {
-                "addedAt": 1756871388608,
+              "386B6DA3-1DBC-499E-99E6-5142AB630F61sxa": {
+                "addedAt": 1756871457927,
                 "addedBy": "user_manual",
                 "deviceInfo": "Manual Set"
               }
@@ -19,9 +19,9 @@
             "keyIndex": 1,
             "hwidResetAt": 1756858148839,
             "specificReset": true,
-            "hwidSetAt": 1756871388608,
+            "hwidSetAt": 1756871457927,
             "manualHwidSet": true,
-            "lastHwidUpdate": 1756871388608
+            "lastHwidUpdate": 1756871457927
           },
           {
             "key": "VIP_cf953c96cca42f545a2c66fcb64b391a",
@@ -62,7 +62,7 @@
           "dailyLimit": 2
         },
         "lastSpecificHwidReset": 1756858148839,
-        "lastHwidManualSet": 1756871388608
+        "lastHwidManualSet": 1756871457927
       }
     }
   }

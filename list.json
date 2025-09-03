@@ -13,12 +13,18 @@
             "keyIndex": 1,
             "hwidResetAt": 1756873305627,
             "specificReset": true
+          },
+          {
+            "key": "VIP_c9417ce62600cd7c29b76b14e70e70a4",
+            "hwid": {},
+            "generatedAt": 1756873456295,
+            "keyIndex": 2
           }
         ],
         "duration": 1,
         "createdAt": 1756873277123,
         "redeemedAt": 1756873284157,
-        "lastKeyGenerated": 1756873298669,
+        "lastKeyGenerated": 1756873456295,
         "hwidResetTracking": {
           "lastResetTimestamp": 1756873305627,
           "resetCountToday": 1,

@@ -1,5 +1,14 @@
 {
-  "codes": {},
+  "codes": {
+    "E4WLC5U7": {
+      "roleId": "1411296365987889272",
+      "duration": 14,
+      "created": 1756904617270,
+      "used": false,
+      "usedBy": null,
+      "usedAt": null
+    }
+  },
   "userRoles": {
     "1364652407606349926": {
       "1406957343815766149": {

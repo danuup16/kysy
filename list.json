@@ -19,7 +19,7 @@
             "hwid": {},
             "generatedAt": 1756873456295,
             "keyIndex": 2,
-            "hwidResetAt": 1756873464021,
+            "hwidResetAt": 1756873498846,
             "specificReset": true
           }
         ],
@@ -28,9 +28,9 @@
         "redeemedAt": 1756873284157,
         "lastKeyGenerated": 1756873456295,
         "hwidResetTracking": {
-          "lastResetTimestamp": 1756873464021,
-          "resetCountToday": 2,
-          "totalResets": 2,
+          "lastResetTimestamp": 1756873498846,
+          "resetCountToday": 3,
+          "totalResets": 3,
           "resetHistory": [
             {
               "timestamp": 1756873305627,
@@ -51,13 +51,23 @@
               "roleId": "1412336702915219496",
               "dailyLimit": 5,
               "validationTime": 1756873464021
+            },
+            {
+              "timestamp": 1756873498846,
+              "resetCount": 3,
+              "keysReset": 1,
+              "specificKey": "VIP_c9417ce62600cd7c29b76b14e70e70a4",
+              "resetType": "specific",
+              "roleId": "1412336702915219496",
+              "dailyLimit": 5,
+              "validationTime": 1756873498846
             }
           ],
           "roleId": "1412336702915219496",
           "dailyLimit": 5,
-          "lastValidationTime": 1756873464021
+          "lastValidationTime": 1756873498846
         },
-        "lastSpecificHwidReset": 1756873464021
+        "lastSpecificHwidReset": 1756873498846
       }
     }
   }

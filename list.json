@@ -8,15 +8,25 @@
         "keys": [
           {
             "key": "VIP_d5c05caa784a71dbcd3c73f60d464b33",
-            "hwid": {},
+            "hwid": {
+              "386B6DA3-1DBC-499E-99E6-5142AB630F61": {
+                "addedAt": 1756876799998,
+                "addedBy": "user_manual",
+                "deviceInfo": "Manual Set"
+              }
+            },
             "generatedAt": 1756874887107,
-            "keyIndex": 1
+            "keyIndex": 1,
+            "hwidSetAt": 1756876799998,
+            "manualHwidSet": true,
+            "lastHwidUpdate": 1756876799998
           }
         ],
         "duration": 1,
         "createdAt": 1756874859394,
         "redeemedAt": 1756874875690,
-        "lastKeyGenerated": 1756874887107
+        "lastKeyGenerated": 1756874887107,
+        "lastHwidManualSet": 1756876799998
       }
     }
   }

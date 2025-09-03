@@ -4,7 +4,7 @@
     "749729848536334336": {
       "1406957343815766149": {
         "roleId": "1411296365987889272",
-        "expiryDate": 1756944392322,
+        "expiryDate": 1756873236938,
         "keys": [
           {
             "key": "VIP_65de424f3c43a4bbbfd8c6ba78646437",
@@ -112,7 +112,9 @@
         "lastSpecificHwidReset": 1756873047419,
         "lastHwidManualSet": 1756871716174,
         "lastAdminAction": 1756872391136,
-        "lastAdminHwidReset": 1756872391136
+        "lastAdminHwidReset": 1756872391136,
+        "durationChangedAt": 1756873178327,
+        "durationChangedBy": "admin"
       }
     }
   }

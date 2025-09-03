@@ -1,5 +1,14 @@
 {
-  "codes": {},
+  "codes": {
+    "55J8OW5N": {
+      "roleId": "1411296365987889272",
+      "duration": 7,
+      "created": 1756911765540,
+      "used": false,
+      "usedBy": null,
+      "usedAt": null
+    }
+  },
   "userRoles": {
     "1364652407606349926": {
       "1406957343815766149": {

@@ -70,7 +70,9 @@
           },
           {
             "key": "VIP_4bfc76e110591affd2389e6c4a9266c2",
-            "hwid": {},
+            "hwid": {
+              "f8af6cfd-974f-4080-89db-b7e193d5dcd3": 1756901906521
+            },
             "keyIndex": 5
           },
           {

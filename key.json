@@ -1,14 +1,5 @@
 {
-  "codes": {
-    "UFQJ60ID": {
-      "roleId": "1412336702915219496",
-      "duration": 3,
-      "created": 1756893860469,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
-    }
-  },
+  "codes": {},
   "userRoles": {
     "1364652407606349926": {
       "1406957343815766149": {
@@ -68,6 +59,16 @@
         "duration": 30,
         "createdAt": 1756892414014,
         "redeemedAt": 1756892697628
+      }
+    },
+    "695138571333664850": {
+      "1406957343815766149": {
+        "roleId": "1412336702915219496",
+        "expiryDate": 1757153162276,
+        "code": "UFQJ60ID",
+        "duration": 3,
+        "createdAt": 1756893860469,
+        "redeemedAt": 1756893962276
       }
     }
   }

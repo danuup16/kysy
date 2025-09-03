@@ -1,5 +1,14 @@
 {
-  "codes": {},
+  "codes": {
+    "XEBNTJ6H": {
+      "roleId": "1412336702915219496",
+      "duration": 30,
+      "created": 1756892414014,
+      "used": false,
+      "usedBy": null,
+      "usedAt": null
+    }
+  },
   "userRoles": {
     "1364652407606349926": {
       "1406957343815766149": {

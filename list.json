@@ -10,13 +10,34 @@
             "key": "VIP_65de424f3c43a4bbbfd8c6ba78646437",
             "hwid": {},
             "generatedAt": 1756858027486,
-            "keyIndex": 1
+            "keyIndex": 1,
+            "hwidResetAt": 1756858074020,
+            "specificReset": true
           }
         ],
         "duration": 1,
         "createdAt": 1756857977801,
         "redeemedAt": 1756857992322,
-        "lastKeyGenerated": 1756858027486
+        "lastKeyGenerated": 1756858027486,
+        "hwidResetTracking": {
+          "lastResetDate": "Wed Sep 03 2025",
+          "resetCountToday": 1,
+          "totalResets": 1,
+          "resetHistory": [
+            {
+              "timestamp": 1756858074020,
+              "resetCount": 1,
+              "keysReset": 1,
+              "specificKey": "VIP_65de424f3c43a4bbbfd8c6ba78646437",
+              "resetType": "specific",
+              "roleId": "1411296365987889272",
+              "dailyLimit": 2
+            }
+          ],
+          "roleId": "1411296365987889272",
+          "dailyLimit": 2
+        },
+        "lastSpecificHwidReset": 1756858074020
       }
     }
   }

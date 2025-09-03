@@ -1,4 +1,17 @@
 {
   "codes": {},
-  "userRoles": {}
+  "userRoles": {
+    "749729848536334336": {
+      "1406957343815766149": {
+        "keys": [
+          {
+            "key": "VIP_e981b1005ce2808ed386bef5be02f172",
+            "hwid": {},
+            "keyIndex": 1
+          }
+        ],
+        "dailyLimit": 2
+      }
+    }
+  }
 }

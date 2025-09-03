@@ -7,15 +7,18 @@
       "used": false,
       "usedBy": null,
       "usedAt": null
-    },
-    "GFAF2HL8": {
-      "roleId": "1411296365987889272",
-      "duration": 1,
-      "created": 1756857977801,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
     }
   },
-  "userRoles": {}
+  "userRoles": {
+    "749729848536334336": {
+      "1406957343815766149": {
+        "roleId": "1411296365987889272",
+        "expiryDate": 1756944392322,
+        "code": "GFAF2HL8",
+        "duration": 1,
+        "createdAt": 1756857977801,
+        "redeemedAt": 1756857992322
+      }
+    }
+  }
 }

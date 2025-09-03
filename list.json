@@ -11,7 +11,7 @@
             "hwid": {},
             "generatedAt": 1756858027486,
             "keyIndex": 1,
-            "hwidResetAt": 1757002362218,
+            "hwidResetAt": 1756873038139,
             "specificReset": true,
             "hwidSetAt": 1756871457927,
             "manualHwidSet": true,
@@ -43,7 +43,7 @@
         "hwidResetTracking": {
           "lastResetDate": "Thu Sep 04 2025",
           "resetCountToday": 1,
-          "totalResets": 3,
+          "totalResets": 4,
           "resetHistory": [
             {
               "timestamp": 1756858074020,
@@ -80,14 +80,26 @@
               "dailyLimit": 2,
               "resetDate": "Thu Sep 04 2025",
               "jakartaTime": "2025-09-04T16:12:41.000Z"
+            },
+            {
+              "timestamp": 1756873038139,
+              "resetCount": 1,
+              "keysReset": 1,
+              "specificKey": "VIP_65de424f3c43a4bbbfd8c6ba78646437",
+              "resetType": "specific",
+              "roleId": "1411296365987889272",
+              "dailyLimit": 2,
+              "validationTime": 1756873038139
             }
           ],
           "roleId": "1411296365987889272",
           "dailyLimit": 2,
           "adminResets": 1,
-          "lastAdminReset": 1756872391136
+          "lastAdminReset": 1756872391136,
+          "lastResetTimestamp": 1756873038139,
+          "lastValidationTime": 1756873038139
         },
-        "lastSpecificHwidReset": 1757002362218,
+        "lastSpecificHwidReset": 1756873038139,
         "lastHwidManualSet": 1756871716174,
         "lastAdminAction": 1756872391136,
         "lastAdminHwidReset": 1756872391136

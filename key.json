@@ -1,14 +1,5 @@
 {
-  "codes": {
-    "RDJCLMHP": {
-      "roleId": "1411296365987889272",
-      "duration": 30,
-      "created": 1756909024424,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
-    }
-  },
+  "codes": {},
   "userRoles": {
     "1364652407606349926": {
       "1406957343815766149": {
@@ -108,6 +99,16 @@
         "duration": 3,
         "createdAt": 1756905161281,
         "redeemedAt": 1756905392137
+      }
+    },
+    "1112377022602301510": {
+      "1406957343815766149": {
+        "roleId": "1411296365987889272",
+        "expiryDate": 1759501205959,
+        "code": "RDJCLMHP",
+        "duration": 30,
+        "createdAt": 1756909024424,
+        "redeemedAt": 1756909205959
       }
     }
   }

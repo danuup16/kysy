@@ -1,14 +1,5 @@
 {
-  "codes": {
-    "49NWBJRV": {
-      "roleId": "1412336702915219496",
-      "duration": 1,
-      "created": 1756882558748,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
-    }
-  },
+  "codes": {},
   "userRoles": {
     "749729848536334336": {
       "1406957343815766149": {
@@ -18,6 +9,16 @@
         "duration": 1,
         "createdAt": 1756882553812,
         "redeemedAt": 1756882576281
+      }
+    },
+    "1364652407606349926": {
+      "1406957343815766149": {
+        "roleId": "1412336702915219496",
+        "expiryDate": 1756968996810,
+        "code": "49NWBJRV",
+        "duration": 1,
+        "createdAt": 1756882558748,
+        "redeemedAt": 1756882596810
       }
     }
   }

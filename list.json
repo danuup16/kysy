@@ -1,4 +1,23 @@
 {
   "codes": {},
-  "userRoles": {}
+  "userRoles": {
+    "749729848536334336": {
+      "1406957343815766149": {
+        "roleId": "1411296365987889272",
+        "expiryDate": 1756944392322,
+        "keys": [
+          {
+            "key": "VIP_65de424f3c43a4bbbfd8c6ba78646437",
+            "hwid": {},
+            "generatedAt": 1756858027486,
+            "keyIndex": 1
+          }
+        ],
+        "duration": 1,
+        "createdAt": 1756857977801,
+        "redeemedAt": 1756857992322,
+        "lastKeyGenerated": 1756858027486
+      }
+    }
+  }
 }

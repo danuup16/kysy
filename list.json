@@ -8,20 +8,17 @@
         "keys": [
           {
             "key": "VIP_65de424f3c43a4bbbfd8c6ba78646437",
-            "hwid": {
-              "386B6DA3-1DBC-499E-99E6-5142AB630F61sxa": {
-                "addedAt": 1756871457927,
-                "addedBy": "user_manual",
-                "deviceInfo": "Manual Set"
-              }
-            },
+            "hwid": {},
             "generatedAt": 1756858027486,
             "keyIndex": 1,
             "hwidResetAt": 1756858148839,
             "specificReset": true,
             "hwidSetAt": 1756871457927,
             "manualHwidSet": true,
-            "lastHwidUpdate": 1756871457927
+            "lastHwidUpdate": 1756872391133,
+            "adminHwidReset": true,
+            "adminResetAt": 1756872391133,
+            "resetType": "admin_override"
           },
           {
             "key": "VIP_cf953c96cca42f545a2c66fcb64b391a",
@@ -65,13 +62,24 @@
               "resetType": "specific",
               "roleId": "1411296365987889272",
               "dailyLimit": 2
+            },
+            {
+              "timestamp": 1756872391136,
+              "resetType": "admin_override",
+              "specificKey": "VIP_65de424f3c43a4bbbfd8c6ba78646437",
+              "adminReset": true,
+              "bypassedLimits": true
             }
           ],
           "roleId": "1411296365987889272",
-          "dailyLimit": 2
+          "dailyLimit": 2,
+          "adminResets": 1,
+          "lastAdminReset": 1756872391136
         },
         "lastSpecificHwidReset": 1756858148839,
-        "lastHwidManualSet": 1756871716174
+        "lastHwidManualSet": 1756871716174,
+        "lastAdminAction": 1756872391136,
+        "lastAdminHwidReset": 1756872391136
       }
     }
   }

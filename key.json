@@ -7,14 +7,6 @@
       "used": false,
       "usedBy": null,
       "usedAt": null
-    },
-    "DRLEXRYF": {
-      "roleId": "1411296365987889272",
-      "duration": 1,
-      "created": 1756880647182,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
     }
   },
   "userRoles": {
@@ -26,6 +18,16 @@
         "duration": 1,
         "createdAt": 1756880354273,
         "redeemedAt": 1756880364594
+      }
+    },
+    "1364652407606349926": {
+      "1406957343815766149": {
+        "roleId": "1411296365987889272",
+        "expiryDate": 1756967062007,
+        "code": "DRLEXRYF",
+        "duration": 1,
+        "createdAt": 1756880647182,
+        "redeemedAt": 1756880662007
       }
     }
   }

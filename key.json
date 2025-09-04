@@ -1,5 +1,14 @@
 {
-  "codes": {},
+  "codes": {
+    "TKB9V4EP": {
+      "roleId": "1411296365987889272",
+      "duration": 3,
+      "created": 1756951033240,
+      "used": false,
+      "usedBy": null,
+      "usedAt": null
+    }
+  },
   "userRoles": {
     "1364652407606349926": {
       "1406957343815766149": {

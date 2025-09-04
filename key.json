@@ -1,14 +1,5 @@
 {
-  "codes": {
-    "TKB9V4EP": {
-      "roleId": "1411296365987889272",
-      "duration": 3,
-      "created": 1756951033240,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
-    }
-  },
+  "codes": {},
   "userRoles": {
     "1364652407606349926": {
       "1406957343815766149": {
@@ -138,6 +129,16 @@
         "duration": 3,
         "createdAt": 1756949594252,
         "redeemedAt": 1756949864991
+      }
+    },
+    "1401424616378990672": {
+      "1406957343815766149": {
+        "roleId": "1411296365987889272",
+        "expiryDate": 1757210285963,
+        "code": "TKB9V4EP",
+        "duration": 3,
+        "createdAt": 1756951033240,
+        "redeemedAt": 1756951085963
       }
     }
   }

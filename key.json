@@ -1,14 +1,5 @@
 {
-  "codes": {
-    "TQ87XYML": {
-      "roleId": "1411296365987889272",
-      "duration": 30,
-      "created": 1757047789174,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
-    }
-  },
+  "codes": {},
   "userRoles": {
     "1382384270634647663": {
       "1406957343815766149": {
@@ -178,6 +169,16 @@
         "duration": 14,
         "createdAt": 1757043793846,
         "redeemedAt": 1757044140873
+      }
+    },
+    "1102958035967692943": {
+      "1406957343815766149": {
+        "roleId": "1411296365987889272",
+        "expiryDate": 1759639875771,
+        "code": "TQ87XYML",
+        "duration": 30,
+        "createdAt": 1757047789174,
+        "redeemedAt": 1757047875771
       }
     }
   }

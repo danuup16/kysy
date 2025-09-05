@@ -1,14 +1,5 @@
 {
-  "codes": {
-    "Q3DW9SMY": {
-      "roleId": "1411296365987889272",
-      "duration": 14,
-      "created": 1757043793846,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
-    }
-  },
+  "codes": {},
   "userRoles": {
     "1382384270634647663": {
       "1406957343815766149": {
@@ -168,6 +159,16 @@
         "duration": 3,
         "createdAt": 1757036916774,
         "redeemedAt": 1757038579101
+      }
+    },
+    "403532960076267521": {
+      "1406957343815766149": {
+        "roleId": "1411296365987889272",
+        "expiryDate": 1758253740873,
+        "code": "Q3DW9SMY",
+        "duration": 14,
+        "createdAt": 1757043793846,
+        "redeemedAt": 1757044140873
       }
     }
   }

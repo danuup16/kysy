@@ -1,5 +1,14 @@
 {
-  "codes": {},
+  "codes": {
+    "DV7OB2OR": {
+      "roleId": "1411296365987889272",
+      "duration": 10,
+      "created": 1757057428094,
+      "used": false,
+      "usedBy": null,
+      "usedAt": null
+    }
+  },
   "userRoles": {
     "1382384270634647663": {
       "1406957343815766149": {

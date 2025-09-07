@@ -1,5 +1,14 @@
 {
-  "codes": {},
+  "codes": {
+    "RMQWH058": {
+      "roleId": "1411296365987889272",
+      "duration": 30,
+      "created": 1757254413867,
+      "used": false,
+      "usedBy": null,
+      "usedAt": null
+    }
+  },
   "userRoles": {
     "530727759887073280": {
       "1406957343815766149": {

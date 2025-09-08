@@ -1,14 +1,5 @@
 {
-  "codes": {
-    "M5A4NWSS": {
-      "roleId": "1411296365987889272",
-      "duration": 7,
-      "created": 1757333908863,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
-    }
-  },
+  "codes": {},
   "userRoles": {
     "530727759887073280": {
       "1406957343815766149": {
@@ -108,6 +99,16 @@
         "duration": 30,
         "createdAt": 1757254413867,
         "redeemedAt": 1757254579345
+      }
+    },
+    "979386610837749800": {
+      "1406957343815766149": {
+        "roleId": "1411296365987889272",
+        "expiryDate": 1757953366513,
+        "code": "M5A4NWSS",
+        "duration": 7,
+        "createdAt": 1757333908863,
+        "redeemedAt": 1757348566513
       }
     }
   }

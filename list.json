@@ -251,6 +251,23 @@
         ],
         "dailyLimit": 2
       }
+    },
+    "473021283031056384": {
+      "1406957343815766149": {
+        "keys": [
+          {
+            "key": "VIP_bc8cffa28f3d16302f800412e916785c",
+            "hwid": {},
+            "keyIndex": 1
+          },
+          {
+            "key": "VIP_4e642205507a7107cf03d3c2c5dd9ae1",
+            "hwid": {},
+            "keyIndex": 3
+          }
+        ],
+        "dailyLimit": 2
+      }
     }
   }
 }

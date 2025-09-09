@@ -7,14 +7,6 @@
       "used": false,
       "usedBy": null,
       "usedAt": null
-    },
-    "15TQS4NI": {
-      "roleId": "1411296365987889272",
-      "duration": 30,
-      "created": 1757427859735,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
     }
   },
   "userRoles": {
@@ -176,6 +168,16 @@
         "duration": 7,
         "createdAt": 1757424171016,
         "redeemedAt": 1757425441999
+      }
+    },
+    "737155997440802926": {
+      "1406957343815766149": {
+        "roleId": "1411296365987889272",
+        "expiryDate": 1760020041812,
+        "code": "15TQS4NI",
+        "duration": 30,
+        "createdAt": 1757427859735,
+        "redeemedAt": 1757428041812
       }
     }
   }

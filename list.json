@@ -113,16 +113,14 @@
           },
           {
             "key": "VIP_680b9c165f0e24e8100c3059aefa818a",
-            "hwid": {
-              "https://keyguardian.org/a/6425?id=8c6e6296307d455eb1e3e41ad0672007": 1757474669400
-            },
+            "hwid": {},
             "keyIndex": 3
           }
         ],
         "dailyLimit": 2,
         "resetToday": {
-          "date": "Wed Sep 03 2025",
-          "count": 2
+          "date": "Wed Sep 10 2025",
+          "count": 1
         }
       }
     },

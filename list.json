@@ -358,13 +358,15 @@
           },
           {
             "key": "VIP_99b3aed401bf967ca95346d4b9ba22ed",
-            "hwid": {
-              "62c3b979-0596-4e2d-81fc-1d2ec16c7311": 1757433049761
-            },
+            "hwid": {},
             "keyIndex": 3
           }
         ],
-        "dailyLimit": 2
+        "dailyLimit": 2,
+        "resetToday": {
+          "date": "Wed Sep 10 2025",
+          "count": 1
+        }
       }
     },
     "1259121270599979048": {

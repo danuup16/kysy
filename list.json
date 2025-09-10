@@ -440,7 +440,9 @@
           },
           {
             "key": "VIP_03cc33d0114f5e9ae38facfc2ce0ddc1",
-            "hwid": {},
+            "hwid": {
+              "91c52d83-821c-46b5-9510-d21b47bb25c9": 1757512758087
+            },
             "keyIndex": 3
           },
           {

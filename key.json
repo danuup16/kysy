@@ -7,6 +7,14 @@
       "used": false,
       "usedBy": null,
       "usedAt": null
+    },
+    "2GE6L098": {
+      "roleId": "1412336702915219496",
+      "duration": 30,
+      "created": 1757497262057,
+      "used": false,
+      "usedBy": null,
+      "usedAt": null
     }
   },
   "userRoles": {

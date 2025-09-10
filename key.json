@@ -43,11 +43,14 @@
     "1112377022602301510": {
       "1406957343815766149": {
         "roleId": "1411296365987889272",
-        "expiryDate": 1759501205959,
+        "expiryDate": 1757497188117,
         "code": "RDJCLMHP",
         "duration": 30,
         "createdAt": 1756909024424,
-        "redeemedAt": 1756909205959
+        "redeemedAt": 1756909205959,
+        "durationChangedAt": 1757497128117,
+        "durationChangedBy": "admin",
+        "oldExpiryDate": 1759501205959
       }
     },
     "1014453489579069450": {

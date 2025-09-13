@@ -7,14 +7,6 @@
       "used": false,
       "usedBy": null,
       "usedAt": null
-    },
-    "2OY4YNAV": {
-      "roleId": "1412336702915219496",
-      "duration": 7,
-      "created": 1757744022464,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
     }
   },
   "userRoles": {
@@ -226,6 +218,16 @@
         "duration": 14,
         "createdAt": 1757744065977,
         "redeemedAt": 1757745258526
+      }
+    },
+    "461171424523190284": {
+      "1406957343815766149": {
+        "roleId": "1412336702915219496",
+        "expiryDate": 1758350654597,
+        "code": "2OY4YNAV",
+        "duration": 7,
+        "createdAt": 1757744022464,
+        "redeemedAt": 1757745854597
       }
     }
   }

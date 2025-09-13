@@ -513,7 +513,9 @@
         "keys": [
           {
             "key": "VIP_d8b6d4b18e6fdd438faa8ebe55f14b1c",
-            "hwid": {},
+            "hwid": {
+              "MezaNiboss123": 1757744444132
+            },
             "keyIndex": 1
           },
           {

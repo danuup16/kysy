@@ -7,14 +7,6 @@
       "used": false,
       "usedBy": null,
       "usedAt": null
-    },
-    "MBB6UGMF": {
-      "roleId": "1412336702915219496",
-      "duration": 30,
-      "created": 1757763656639,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
     }
   },
   "userRoles": {
@@ -236,6 +228,16 @@
         "duration": 7,
         "createdAt": 1757744022464,
         "redeemedAt": 1757745854597
+      }
+    },
+    "1274489297268904019": {
+      "1406957343815766149": {
+        "roleId": "1412336702915219496",
+        "expiryDate": 1760356123171,
+        "code": "MBB6UGMF",
+        "duration": 30,
+        "createdAt": 1757763656639,
+        "redeemedAt": 1757764123171
       }
     }
   }

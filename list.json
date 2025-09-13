@@ -184,16 +184,14 @@
           },
           {
             "key": "VIP_41bbd3e7d5a19191bab0a0eafe77a905",
-            "hwid": {
-              "080076f0-fbf7-4ee5-b9e3-49e377b6a6a9": 1757662393751
-            },
+            "hwid": {},
             "keyIndex": 3
           }
         ],
         "dailyLimit": 2,
         "resetToday": {
-          "date": "Fri Sep 12 2025",
-          "count": 2
+          "date": "Sun Sep 14 2025",
+          "count": 1
         }
       }
     },

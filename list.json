@@ -496,9 +496,7 @@
         "keys": [
           {
             "key": "VIP_594aba3b291538bbbee28225580f197e",
-            "hwid": {
-              "4fcbe920-6bee-4821-a1a3-d55cfc0e8496": 1757746029818
-            },
+            "hwid": {},
             "keyIndex": 1
           },
           {
@@ -512,7 +510,7 @@
         "dailyLimit": 2,
         "resetToday": {
           "date": "Sun Sep 14 2025",
-          "count": 1
+          "count": 2
         }
       }
     },

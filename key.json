@@ -7,14 +7,6 @@
       "used": false,
       "usedBy": null,
       "usedAt": null
-    },
-    "CFNS6XG7": {
-      "roleId": "1412336702915219496",
-      "duration": 3,
-      "created": 1757820450436,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
     }
   },
   "userRoles": {
@@ -256,6 +248,16 @@
         "duration": 7,
         "createdAt": 1757771965722,
         "redeemedAt": 1757772040097
+      }
+    },
+    "1119159786366312478": {
+      "1406957343815766149": {
+        "roleId": "1412336702915219496",
+        "expiryDate": 1758079845369,
+        "code": "CFNS6XG7",
+        "duration": 3,
+        "createdAt": 1757820450436,
+        "redeemedAt": 1757820645369
       }
     }
   }

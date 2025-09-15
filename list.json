@@ -327,7 +327,9 @@
           },
           {
             "key": "VIP_920dfe38715cc05654ea1d6de9bc8170",
-            "hwid": {},
+            "hwid": {
+              "2aa51e5f-64a8-433d-a8bb-d5dd31ae4427": 1757972252962
+            },
             "keyIndex": 5
           },
           {

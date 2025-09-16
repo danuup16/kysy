@@ -15,14 +15,6 @@
       "used": false,
       "usedBy": null,
       "usedAt": null
-    },
-    "K375HVOY": {
-      "roleId": "1411296365987889272",
-      "duration": 7,
-      "created": 1757964423526,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
     }
   },
   "userRoles": {
@@ -234,6 +226,16 @@
         "duration": 3,
         "createdAt": 1757820450436,
         "redeemedAt": 1757820645369
+      }
+    },
+    "994106014481793056": {
+      "1406957343815766149": {
+        "roleId": "1411296365987889272",
+        "expiryDate": 1758589510594,
+        "code": "K375HVOY",
+        "duration": 7,
+        "createdAt": 1757964423526,
+        "redeemedAt": 1757984710594
       }
     }
   }

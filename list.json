@@ -575,6 +575,23 @@
           "count": 1
         }
       }
+    },
+    "1185937347758534666": {
+      "1406957343815766149": {
+        "keys": [
+          {
+            "key": "VIP_e3d6c542af089b56d31d6ee4115c33e9",
+            "hwid": {},
+            "keyIndex": 1
+          },
+          {
+            "key": "VIP_cf2608ed89a639f19308c8bedca9771f",
+            "hwid": {},
+            "keyIndex": 3
+          }
+        ],
+        "dailyLimit": 2
+      }
     }
   }
 }

@@ -7,14 +7,6 @@
       "used": false,
       "usedBy": null,
       "usedAt": null
-    },
-    "MRRQKPHS": {
-      "roleId": "1411296365987889272",
-      "duration": 14,
-      "created": 1758021217170,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
     }
   },
   "userRoles": {
@@ -236,6 +228,16 @@
         "duration": 14,
         "createdAt": 1757964324622,
         "redeemedAt": 1758017653832
+      }
+    },
+    "695138571333664850": {
+      "1406957343815766149": {
+        "roleId": "1411296365987889272",
+        "expiryDate": 1759230857026,
+        "code": "MRRQKPHS",
+        "duration": 14,
+        "createdAt": 1758021217170,
+        "redeemedAt": 1758021257026
       }
     }
   }

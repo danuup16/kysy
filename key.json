@@ -7,14 +7,6 @@
       "used": false,
       "usedBy": null,
       "usedAt": null
-    },
-    "AXD5K7TP": {
-      "roleId": "1411296365987889272",
-      "duration": 3,
-      "created": 1758078044083,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
     }
   },
   "userRoles": {
@@ -216,6 +208,16 @@
         "duration": 14,
         "createdAt": 1758021217170,
         "redeemedAt": 1758021257026
+      }
+    },
+    "473021283031056384": {
+      "1406957343815766149": {
+        "roleId": "1411296365987889272",
+        "expiryDate": 1758337396167,
+        "code": "AXD5K7TP",
+        "duration": 3,
+        "createdAt": 1758078044083,
+        "redeemedAt": 1758078196167
       }
     }
   }

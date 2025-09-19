@@ -15,14 +15,6 @@
       "used": false,
       "usedBy": null,
       "usedAt": null
-    },
-    "NHFLUUZQ": {
-      "roleId": "1411296365987889272",
-      "duration": 3,
-      "created": 1758295223194,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
     }
   },
   "userRoles": {
@@ -204,6 +196,16 @@
         "duration": 7,
         "createdAt": 1758191090569,
         "redeemedAt": 1758191344623
+      }
+    },
+    "314931331371106304": {
+      "1406957343815766149": {
+        "roleId": "1411296365987889272",
+        "expiryDate": 1758554461587,
+        "code": "NHFLUUZQ",
+        "duration": 3,
+        "createdAt": 1758295223194,
+        "redeemedAt": 1758295261587
       }
     }
   }

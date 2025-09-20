@@ -15,14 +15,6 @@
       "used": false,
       "usedBy": null,
       "usedAt": null
-    },
-    "G0AMNZTD": {
-      "roleId": "1411296365987889272",
-      "duration": 30,
-      "created": 1758371214811,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
     }
   },
   "userRoles": {
@@ -204,6 +196,16 @@
         "duration": 7,
         "createdAt": 1758354721294,
         "redeemedAt": 1758354823447
+      }
+    },
+    "1242819681870544899": {
+      "1406957343815766149": {
+        "roleId": "1411296365987889272",
+        "expiryDate": 1760963302651,
+        "code": "G0AMNZTD",
+        "duration": 30,
+        "createdAt": 1758371214811,
+        "redeemedAt": 1758371302651
       }
     }
   }

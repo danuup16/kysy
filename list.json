@@ -491,6 +491,38 @@
         ],
         "dailyLimit": 2
       }
+    },
+    "747094380640206869": {
+      "1406957343815766149": {
+        "keys": [
+          {
+            "key": "VIP_7c77ed5d70cf3f0525bdfee475de97a8",
+            "hwid": {},
+            "keyIndex": 1
+          },
+          {
+            "key": "VIP_7c1bf7704bf7369a317d7332e0798c88",
+            "hwid": {},
+            "keyIndex": 3
+          },
+          {
+            "key": "VIP_15e41dbac5f8bc61577e3c709224b226",
+            "hwid": {},
+            "keyIndex": 5
+          },
+          {
+            "key": "VIP_ea1cac5a23edecb3d6cac4adaeafc73d",
+            "hwid": {},
+            "keyIndex": 7
+          },
+          {
+            "key": "VIP_17856bc0fcb7ca31e758da9c33444c70",
+            "hwid": {},
+            "keyIndex": 9
+          }
+        ],
+        "dailyLimit": 5
+      }
     }
   }
 }

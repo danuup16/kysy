@@ -15,14 +15,6 @@
       "used": false,
       "usedBy": null,
       "usedAt": null
-    },
-    "CHSH14EK": {
-      "roleId": "1412336702915219496",
-      "duration": 30,
-      "created": 1758528539294,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
     }
   },
   "userRoles": {
@@ -204,6 +196,16 @@
         "duration": 30,
         "createdAt": 1758371214811,
         "redeemedAt": 1758371302651
+      }
+    },
+    "747094380640206869": {
+      "1406957343815766149": {
+        "roleId": "1412336702915219496",
+        "expiryDate": 1761120662803,
+        "code": "CHSH14EK",
+        "duration": 30,
+        "createdAt": 1758528539294,
+        "redeemedAt": 1758528662803
       }
     }
   }

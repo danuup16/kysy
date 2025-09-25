@@ -15,14 +15,6 @@
       "used": false,
       "usedBy": null,
       "usedAt": null
-    },
-    "RO8TVGQC": {
-      "roleId": "1411296365987889272",
-      "duration": 3,
-      "created": 1758791892908,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
     }
   },
   "userRoles": {
@@ -194,6 +186,16 @@
         "duration": 30,
         "createdAt": 1758712949394,
         "redeemedAt": 1758713736207
+      }
+    },
+    "1056191710335619202": {
+      "1406957343815766149": {
+        "roleId": "1411296365987889272",
+        "expiryDate": 1759051216790,
+        "code": "RO8TVGQC",
+        "duration": 3,
+        "createdAt": 1758791892908,
+        "redeemedAt": 1758792016790
       }
     }
   }

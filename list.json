@@ -98,15 +98,13 @@
           },
           {
             "key": "VIP_4c31886b23d118366ce852b9e012720e",
-            "hwid": {
-              "ca635cf8-becf-4b16-8784-aad307493742": 1758350855025
-            },
+            "hwid": {},
             "keyIndex": 3
           }
         ],
         "dailyLimit": 2,
         "resetToday": {
-          "date": "Sun Sep 21 2025",
+          "date": "Thu Sep 25 2025",
           "count": 1
         }
       }

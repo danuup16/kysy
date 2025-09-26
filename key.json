@@ -15,14 +15,6 @@
       "used": false,
       "usedBy": null,
       "usedAt": null
-    },
-    "AZP4B3PL": {
-      "roleId": "1411296365987889272",
-      "duration": 3,
-      "created": 1758882904965,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
     }
   },
   "userRoles": {
@@ -194,6 +186,16 @@
         "duration": 3,
         "createdAt": 1758878367145,
         "redeemedAt": 1758882449955
+      }
+    },
+    "1020238303418658846": {
+      "1406957343815766149": {
+        "roleId": "1411296365987889272",
+        "expiryDate": 1759142260017,
+        "code": "AZP4B3PL",
+        "duration": 3,
+        "createdAt": 1758882904965,
+        "redeemedAt": 1758883060017
       }
     }
   }

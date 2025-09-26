@@ -15,14 +15,6 @@
       "used": false,
       "usedBy": null,
       "usedAt": null
-    },
-    "H3FFZR1L": {
-      "roleId": "1411296365987889272",
-      "duration": 3,
-      "created": 1758878367145,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
     }
   },
   "userRoles": {
@@ -184,6 +176,16 @@
         "duration": 3,
         "createdAt": 1758791892908,
         "redeemedAt": 1758792016790
+      }
+    },
+    "1400581798097846353": {
+      "1406957343815766149": {
+        "roleId": "1411296365987889272",
+        "expiryDate": 1759141649955,
+        "code": "H3FFZR1L",
+        "duration": 3,
+        "createdAt": 1758878367145,
+        "redeemedAt": 1758882449955
       }
     }
   }

@@ -468,9 +468,7 @@
         "keys": [
           {
             "key": "VIP_a0b4765e9f80182acdefc12e4c2aa823",
-            "hwid": {
-              "https://keyguardian.org/a/6425?id=ba91062278254dad911c6fb76598ea45": 1758963738955
-            },
+            "hwid": {},
             "keyIndex": 1
           },
           {
@@ -482,7 +480,7 @@
         "dailyLimit": 2,
         "resetToday": {
           "date": "Sat Sep 27 2025",
-          "count": 1
+          "count": 2
         }
       }
     }

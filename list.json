@@ -456,16 +456,14 @@
           },
           {
             "key": "VIP_e5d53750550e1dc15e4c42511e72d38d",
-            "hwid": {
-              "https://keyguardian.org/a/6425?id=ba91062278254dad911c6fb76598ea45": 1758964340646
-            },
+            "hwid": {},
             "keyIndex": 3
           }
         ],
         "dailyLimit": 2,
         "resetToday": {
-          "date": "Sat Sep 27 2025",
-          "count": 2
+          "date": "Mon Sep 29 2025",
+          "count": 1
         }
       }
     },

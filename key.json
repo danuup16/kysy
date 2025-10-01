@@ -15,14 +15,6 @@
       "used": false,
       "usedBy": null,
       "usedAt": null
-    },
-    "08BNLO9P": {
-      "roleId": "1412336702915219496",
-      "duration": 7,
-      "created": 1759313064130,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
     }
   },
   "userRoles": {
@@ -174,6 +166,16 @@
         "duration": 7,
         "createdAt": 1759309100518,
         "redeemedAt": 1759309180536
+      }
+    },
+    "1134531569508425768": {
+      "1406957343815766149": {
+        "roleId": "1412336702915219496",
+        "expiryDate": 1759917938881,
+        "code": "08BNLO9P",
+        "duration": 7,
+        "createdAt": 1759313064130,
+        "redeemedAt": 1759313138881
       }
     }
   }

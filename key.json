@@ -15,14 +15,6 @@
       "used": false,
       "usedBy": null,
       "usedAt": null
-    },
-    "3U924RAX": {
-      "roleId": "1411296365987889272",
-      "duration": 7,
-      "created": 1759381137111,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
     }
   },
   "userRoles": {
@@ -204,6 +196,16 @@
         "duration": 7,
         "createdAt": 1759368751556,
         "redeemedAt": 1759369537313
+      }
+    },
+    "997146552885854259": {
+      "1406957343815766149": {
+        "roleId": "1411296365987889272",
+        "expiryDate": 1759988982959,
+        "code": "3U924RAX",
+        "duration": 7,
+        "createdAt": 1759381137111,
+        "redeemedAt": 1759384182959
       }
     }
   }

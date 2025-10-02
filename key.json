@@ -15,14 +15,6 @@
       "used": false,
       "usedBy": null,
       "usedAt": null
-    },
-    "2COKULCC": {
-      "roleId": "1411296365987889272",
-      "duration": 3,
-      "created": 1759412684062,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
     }
   },
   "userRoles": {
@@ -214,6 +206,16 @@
         "duration": 7,
         "createdAt": 1759381137111,
         "redeemedAt": 1759384182959
+      }
+    },
+    "1011178515707723836": {
+      "1406957343815766149": {
+        "roleId": "1411296365987889272",
+        "expiryDate": 1759672783892,
+        "code": "2COKULCC",
+        "duration": 3,
+        "createdAt": 1759412684062,
+        "redeemedAt": 1759413583892
       }
     }
   }

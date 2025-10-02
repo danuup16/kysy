@@ -15,14 +15,6 @@
       "used": false,
       "usedBy": null,
       "usedAt": null
-    },
-    "5U5PVESC": {
-      "roleId": "1411296365987889272",
-      "duration": 7,
-      "created": 1759368751556,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
     }
   },
   "userRoles": {
@@ -194,6 +186,16 @@
         "duration": 7,
         "createdAt": 1759321229713,
         "redeemedAt": 1759321332424
+      }
+    },
+    "1124686571103334491": {
+      "1406957343815766149": {
+        "roleId": "1411296365987889272",
+        "expiryDate": 1759974337313,
+        "code": "5U5PVESC",
+        "duration": 7,
+        "createdAt": 1759368751556,
+        "redeemedAt": 1759369537313
       }
     }
   }

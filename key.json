@@ -15,14 +15,6 @@
       "used": false,
       "usedBy": null,
       "usedAt": null
-    },
-    "5WA937JQ": {
-      "roleId": "1411296365987889272",
-      "duration": 7,
-      "created": 1759485817169,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
     }
   },
   "userRoles": {
@@ -204,6 +196,16 @@
         "duration": 3,
         "createdAt": 1759412684062,
         "redeemedAt": 1759413583892
+      }
+    },
+    "569498794400415763": {
+      "1406957343815766149": {
+        "roleId": "1411296365987889272",
+        "expiryDate": 1760091279918,
+        "code": "5WA937JQ",
+        "duration": 7,
+        "createdAt": 1759485817169,
+        "redeemedAt": 1759486479918
       }
     }
   }

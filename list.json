@@ -1,49 +1,5 @@
 {
   "userRoles": {
-    "530727759887073280": {
-      "1406957343815766149": {
-        "keys": [
-          {
-            "key": "VIP_1c40866feb3cd4dc3073baf2b936ffb1",
-            "hwid": {
-              "9837ef6b-afbf-4a4b-8c7b-399f02c15b30": 1757515949999
-            },
-            "keyIndex": 1
-          },
-          {
-            "key": "VIP_e7ff3d44a4b5162ac1d3aca9c19a9183",
-            "hwid": {
-              "09c92078-9382-4c0a-af58-deb063543a06": 1757515393138
-            },
-            "keyIndex": 3
-          },
-          {
-            "key": "VIP_1cc10a850262cea79b490287e656527c",
-            "hwid": {},
-            "keyIndex": 5
-          },
-          {
-            "key": "VIP_c6edcbfde52c275dcc38980a4267a20b",
-            "hwid": {
-              "a7edd52b-cf16-43d5-a691-425f6057995d": 1757518469724
-            },
-            "keyIndex": 7
-          },
-          {
-            "key": "VIP_63bdebfdfcc91e81a1e8a207dcd785f3",
-            "hwid": {
-              "cb852deb-451a-4145-a3ab-439fbacd6b85": 1756892037769
-            },
-            "keyIndex": 9
-          }
-        ],
-        "dailyLimit": 5,
-        "resetToday": {
-          "date": "Wed Sep 10 2025",
-          "count": 1
-        }
-      }
-    },
     "436843418073956352": {
       "1406957343815766149": {
         "keys": [

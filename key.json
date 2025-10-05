@@ -16,14 +16,6 @@
       "usedBy": null,
       "usedAt": null
     },
-    "9RS4AKMA": {
-      "roleId": "1411296365987889272",
-      "duration": 30,
-      "created": 1759678836515,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
-    },
     "XE6HYCI8": {
       "roleId": "1411296365987889272",
       "duration": 3,
@@ -202,6 +194,16 @@
         "duration": 7,
         "createdAt": 1759678918945,
         "redeemedAt": 1759679871248
+      }
+    },
+    "1102958035967692943": {
+      "1406957343815766149": {
+        "roleId": "1411296365987889272",
+        "expiryDate": 1762273289679,
+        "code": "9RS4AKMA",
+        "duration": 30,
+        "createdAt": 1759678836515,
+        "redeemedAt": 1759681289679
       }
     }
   }

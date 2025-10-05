@@ -326,9 +326,7 @@
         "keys": [
           {
             "key": "VIP_4d9fc7aba7486b77a3ebac54bc9995df",
-            "hwid": {
-              "9f22672c-d821-4c39-94d5-1ae02349df15": 1759321807520
-            },
+            "hwid": {},
             "keyIndex": 1
           },
           {
@@ -354,7 +352,11 @@
             "keyIndex": 9
           }
         ],
-        "dailyLimit": 5
+        "dailyLimit": 5,
+        "resetToday": {
+          "date": "Mon Oct 06 2025",
+          "count": 1
+        }
       }
     },
     "1124686571103334491": {

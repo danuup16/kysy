@@ -15,14 +15,6 @@
       "used": false,
       "usedBy": null,
       "usedAt": null
-    },
-    "TEYKZ41Q": {
-      "roleId": "1412336702915219496",
-      "duration": 7,
-      "created": 1759771378672,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
     }
   },
   "userRoles": {
@@ -204,6 +196,16 @@
         "duration": 3,
         "createdAt": 1759678901304,
         "redeemedAt": 1759700850987
+      }
+    },
+    "1123910114651406336": {
+      "1406957343815766149": {
+        "roleId": "1412336702915219496",
+        "expiryDate": 1760376581312,
+        "code": "TEYKZ41Q",
+        "duration": 7,
+        "createdAt": 1759771378672,
+        "redeemedAt": 1759771781312
       }
     }
   }

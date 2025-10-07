@@ -559,31 +559,6 @@
         ],
         "dailyLimit": 5
       }
-    },
-    "331679177306537994": {
-      "1406957343815766149": {
-        "keys": [
-          {
-            "key": "VIP_61754c4b8956871918e3407fe9aff31c",
-            "hwid": {
-              "9617cd5b-4540-45ee-b6b1-438b9364a00a": 1759836782936
-            },
-            "keyIndex": 1
-          },
-          {
-            "key": "VIP_9e1e91a98af79c27cb9322cac1405bf7",
-            "hwid": {
-              "10ff932b-d2f5-4ee0-91d9-cb84ffa587a0": 1759835398060
-            },
-            "keyIndex": 3
-          }
-        ],
-        "dailyLimit": 2,
-        "resetToday": {
-          "date": "Tue Oct 07 2025",
-          "count": 2
-        }
-      }
     }
   }
 }

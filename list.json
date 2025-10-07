@@ -559,6 +559,38 @@
         ],
         "dailyLimit": 5
       }
+    },
+    "331679177306537994": {
+      "1406957343815766149": {
+        "keys": [
+          {
+            "key": "VIP_fadb20fb01e1d0433e2c7acef271ff7b",
+            "hwid": {},
+            "keyIndex": 1
+          },
+          {
+            "key": "VIP_eb88da858b8293cfc3803b86f94a63d3",
+            "hwid": {},
+            "keyIndex": 3
+          },
+          {
+            "key": "VIP_7f50f8760aa6aa87a4aa1333566a2ff1",
+            "hwid": {},
+            "keyIndex": 5
+          },
+          {
+            "key": "VIP_9a22bbcbbcbb4e811680e7999568569c",
+            "hwid": {},
+            "keyIndex": 7
+          },
+          {
+            "key": "VIP_f6692acee44fcb602f3f3c8bcf1dfd2a",
+            "hwid": {},
+            "keyIndex": 9
+          }
+        ],
+        "dailyLimit": 5
+      }
     }
   }
 }

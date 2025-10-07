@@ -215,19 +215,6 @@
         "createdAt": 1759771378672,
         "redeemedAt": 1759771781312
       }
-    },
-    "331679177306537994": {
-      "1406957343815766149": {
-        "roleId": "1411296365987889272",
-        "expiryDate": 1759839721402,
-        "code": "R3Z6PD1K",
-        "duration": 1,
-        "createdAt": 1759833629016,
-        "redeemedAt": 1759833719391,
-        "durationChangedAt": 1759839661402,
-        "durationChangedBy": "admin",
-        "oldExpiryDate": 1759920119391
-      }
     }
   }
 }

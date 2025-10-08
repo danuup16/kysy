@@ -23,14 +23,6 @@
       "used": false,
       "usedBy": null,
       "usedAt": null
-    },
-    "9VHNTMXT": {
-      "roleId": "1411296365987889272",
-      "duration": 14,
-      "created": 1759910041869,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
     }
   },
   "userRoles": {
@@ -232,6 +224,16 @@
         "duration": 30,
         "createdAt": 1759855190921,
         "redeemedAt": 1759855316535
+      }
+    },
+    "420618041437716492": {
+      "1406957343815766149": {
+        "roleId": "1411296365987889272",
+        "expiryDate": 1761119719143,
+        "code": "9VHNTMXT",
+        "duration": 14,
+        "createdAt": 1759910041869,
+        "redeemedAt": 1759910119143
       }
     }
   }

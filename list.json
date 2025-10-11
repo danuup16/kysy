@@ -27,7 +27,9 @@
           },
           {
             "key": "VIP_a93ccb6bfba127e89dc2a5aa96253976",
-            "hwid": {},
+            "hwid": {
+              "c435a03e-f7d4-430f-87f0-a4778bd254dd": 1760154755828
+            },
             "keyIndex": 9
           }
         ],

@@ -23,6 +23,14 @@
       "used": false,
       "usedBy": null,
       "usedAt": null
+    },
+    "GATK23Q2": {
+      "roleId": "1411296365987889272",
+      "duration": 3,
+      "created": 1760343021663,
+      "used": false,
+      "usedBy": null,
+      "usedAt": null
     }
   },
   "userRoles": {

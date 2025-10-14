@@ -15,14 +15,6 @@
       "used": false,
       "usedBy": null,
       "usedAt": null
-    },
-    "GS48Q0BO": {
-      "roleId": "1412336702915219496",
-      "duration": 30,
-      "created": 1760411365157,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
     }
   },
   "userRoles": {
@@ -194,6 +186,16 @@
         "duration": 7,
         "createdAt": 1760343014874,
         "redeemedAt": 1760344055567
+      }
+    },
+    "1274489297268904019": {
+      "1406957343815766149": {
+        "roleId": "1412336702915219496",
+        "expiryDate": 1763015152015,
+        "code": "GS48Q0BO",
+        "duration": 30,
+        "createdAt": 1760411365157,
+        "redeemedAt": 1760423152015
       }
     }
   }

@@ -450,6 +450,23 @@
           "count": 1
         }
       }
+    },
+    "1417593762540027914": {
+      "1406957343815766149": {
+        "keys": [
+          {
+            "key": "VIP_49c3c93b0cf07a577c872ef44d2a9623",
+            "hwid": {},
+            "keyIndex": 1
+          },
+          {
+            "key": "VIP_c4fe73a41497ed6b24b8fc68ee9a83e9",
+            "hwid": {},
+            "keyIndex": 3
+          }
+        ],
+        "dailyLimit": 2
+      }
     }
   }
 }

@@ -490,6 +490,23 @@
           "count": 1
         }
       }
+    },
+    "1399340194959855697": {
+      "1406957343815766149": {
+        "keys": [
+          {
+            "key": "VIP_650380d0326aab6d1eeb4ba09e493394",
+            "hwid": {},
+            "keyIndex": 1
+          },
+          {
+            "key": "VIP_f74fe388cc6c627191acf8e22ddaa79f",
+            "hwid": {},
+            "keyIndex": 3
+          }
+        ],
+        "dailyLimit": 2
+      }
     }
   }
 }

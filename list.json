@@ -505,7 +505,11 @@
             "keyIndex": 3
           }
         ],
-        "dailyLimit": 2
+        "dailyLimit": 2,
+        "resetToday": {
+          "date": "Fri Oct 17 2025",
+          "count": 1
+        }
       }
     }
   }

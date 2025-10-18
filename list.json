@@ -603,7 +603,9 @@
         "keys": [
           {
             "key": "VIP_0eebbfcfff99bd3ca156d4dc8bfadfc6",
-            "hwid": {},
+            "hwid": {
+              "fc943bc7-0252-4bcc-a295-545bfa6f981e": 1760779356770
+            },
             "keyIndex": 1
           },
           {

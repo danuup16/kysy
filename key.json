@@ -47,14 +47,6 @@
       "used": false,
       "usedBy": null,
       "usedAt": null
-    },
-    "F506A08P": {
-      "roleId": "1411296365987889272",
-      "duration": 7,
-      "created": 1760758072020,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
     }
   },
   "userRoles": {
@@ -276,6 +268,16 @@
         "duration": 3,
         "createdAt": 1760668750833,
         "redeemedAt": 1760715915532
+      }
+    },
+    "922039977217490954": {
+      "1406957343815766149": {
+        "roleId": "1411296365987889272",
+        "expiryDate": 1761362919793,
+        "code": "F506A08P",
+        "duration": 7,
+        "createdAt": 1760758072020,
+        "redeemedAt": 1760758119793
       }
     }
   }

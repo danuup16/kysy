@@ -47,14 +47,6 @@
       "used": false,
       "usedBy": null,
       "usedAt": null
-    },
-    "FWOL3K7O": {
-      "roleId": "1411296365987889272",
-      "duration": 3,
-      "created": 1760758132791,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
     }
   },
   "userRoles": {
@@ -286,6 +278,16 @@
         "duration": 7,
         "createdAt": 1760758072020,
         "redeemedAt": 1760758119793
+      }
+    },
+    "786074532292067369": {
+      "1406957343815766149": {
+        "roleId": "1411296365987889272",
+        "expiryDate": 1761017748055,
+        "code": "FWOL3K7O",
+        "duration": 3,
+        "createdAt": 1760758132791,
+        "redeemedAt": 1760758548055
       }
     }
   }

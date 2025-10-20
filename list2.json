@@ -1,3 +1,22 @@
 {
-  "userRoles": {}
+  "userRoles": {
+    "749729848536334336": {
+      "1406957343815766149": {
+        "roleId": "1411296365987889272",
+        "expiryDate": 1761064491031,
+        "keys": [
+          {
+            "key": "VIP_19b9238b014a3c99e7c4a46d26d7d8b0",
+            "hwid": {},
+            "keyIndex": 0
+          },
+          {
+            "key": "VIP_92de86f5a533f24b1a1e3eb65754b21d",
+            "hwid": {},
+            "keyIndex": 1
+          }
+        ]
+      }
+    }
+  }
 }

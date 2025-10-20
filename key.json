@@ -47,14 +47,6 @@
       "used": false,
       "usedBy": null,
       "usedAt": null
-    },
-    "S3ATHLFS": {
-      "roleId": "1412336702915219496",
-      "duration": 7,
-      "created": 1760961870155,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
     }
   },
   "userRoles": {
@@ -266,6 +258,16 @@
         "duration": 30,
         "createdAt": 1760960996344,
         "redeemedAt": 1760961026996
+      }
+    },
+    "461171424523190284": {
+      "1406957343815766149": {
+        "roleId": "1412336702915219496",
+        "expiryDate": 1761566888786,
+        "code": "S3ATHLFS",
+        "duration": 7,
+        "createdAt": 1760961870155,
+        "redeemedAt": 1760962088786
       }
     }
   }

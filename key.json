@@ -39,6 +39,11 @@
       "used": false,
       "usedBy": null,
       "usedAt": null
+    },
+    "VIP_e4780da973c7f71cfef378ed77481bb9": {
+      "roleId": "1411296365987889272",
+      "duration": 1,
+      "used": false
     }
   },
   "userRoles": {

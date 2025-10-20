@@ -243,11 +243,14 @@
     "461171424523190284": {
       "1406957343815766149": {
         "roleId": "1411296365987889272",
-        "expiryDate": 1761565543741,
+        "expiryDate": 1760961909437,
         "code": "SVZKKKWL",
         "duration": 7,
         "createdAt": 1760960539533,
-        "redeemedAt": 1760960743741
+        "redeemedAt": 1760960743741,
+        "durationChangedAt": 1760961849437,
+        "durationChangedBy": "admin",
+        "oldExpiryDate": 1761565543741
       }
     },
     "1082745209571524700": {

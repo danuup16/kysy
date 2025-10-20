@@ -39,14 +39,6 @@
       "used": false,
       "usedBy": null,
       "usedAt": null
-    },
-    "S8MK2E65": {
-      "roleId": "1411296365987889272",
-      "duration": 14,
-      "created": 1760975203889,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
     }
   },
   "userRoles": {
@@ -238,6 +230,16 @@
         "duration": 4,
         "createdAt": 1760715379445,
         "redeemedAt": 1760975185240
+      }
+    },
+    "1399340194959855697": {
+      "1406957343815766149": {
+        "roleId": "1411296365987889272",
+        "expiryDate": 1762184870328,
+        "code": "S8MK2E65",
+        "duration": 14,
+        "createdAt": 1760975203889,
+        "redeemedAt": 1760975270328
       }
     }
   }

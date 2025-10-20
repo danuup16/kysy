@@ -1,3 +1,12 @@
 {
-  "codes": {}
+  "codes": {
+    "574QA0LQ": {
+      "roleId": "1411296365987889272",
+      "duration": 1,
+      "created": 1760977431777,
+      "used": false,
+      "usedBy": null,
+      "usedAt": null
+    }
+  }
 }

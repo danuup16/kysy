@@ -39,14 +39,6 @@
       "used": false,
       "usedBy": null,
       "usedAt": null
-    },
-    "MWP187IO": {
-      "roleId": "1411296365987889272",
-      "duration": 4,
-      "created": 1760715379445,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
     }
   },
   "userRoles": {
@@ -228,6 +220,16 @@
         "duration": 7,
         "createdAt": 1760961870155,
         "redeemedAt": 1760962088786
+      }
+    },
+    "420539170054733825": {
+      "1406957343815766149": {
+        "roleId": "1411296365987889272",
+        "expiryDate": 1761320785240,
+        "code": "MWP187IO",
+        "duration": 4,
+        "createdAt": 1760715379445,
+        "redeemedAt": 1760975185240
       }
     }
   }

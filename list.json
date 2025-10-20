@@ -504,7 +504,9 @@
         "keys": [
           {
             "key": "VIP_3acb49369242e06eea9c0f06123e71d9",
-            "hwid": {},
+            "hwid": {
+              "51944cd0-09d5-4bf0-a8dd-00e9dfb10317": 1760975477247
+            },
             "keyIndex": 1
           },
           {

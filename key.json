@@ -44,14 +44,6 @@
       "roleId": "1411296365987889272",
       "duration": 1,
       "used": false
-    },
-    "82GSNH68": {
-      "roleId": "1411296365987889272",
-      "duration": 3,
-      "created": 1761015071231,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
     }
   },
   "userRoles": {
@@ -253,6 +245,16 @@
         "duration": 14,
         "createdAt": 1760975203889,
         "redeemedAt": 1760975270328
+      }
+    },
+    "314931331371106304": {
+      "1406957343815766149": {
+        "roleId": "1411296365987889272",
+        "expiryDate": 1761274526776,
+        "code": "82GSNH68",
+        "duration": 3,
+        "createdAt": 1761015071231,
+        "redeemedAt": 1761015326776
       }
     }
   }

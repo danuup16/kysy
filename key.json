@@ -52,14 +52,6 @@
       "used": false,
       "usedBy": null,
       "usedAt": null
-    },
-    "724ZCKB2": {
-      "roleId": "1411296365987889272",
-      "duration": 30,
-      "created": 1761241656438,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
     }
   },
   "userRoles": {
@@ -261,6 +253,16 @@
         "duration": 7,
         "createdAt": 1761185489910,
         "redeemedAt": 1761185524785
+      }
+    },
+    "860436457873604648": {
+      "1406957343815766149": {
+        "roleId": "1411296365987889272",
+        "expiryDate": 1763833675711,
+        "code": "724ZCKB2",
+        "duration": 30,
+        "createdAt": 1761241656438,
+        "redeemedAt": 1761241675711
       }
     }
   }

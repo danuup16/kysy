@@ -52,6 +52,14 @@
       "used": false,
       "usedBy": null,
       "usedAt": null
+    },
+    "09GDGN4S": {
+      "roleId": "1411296365987889272",
+      "duration": 7,
+      "created": 1761185489910,
+      "used": false,
+      "usedBy": null,
+      "usedAt": null
     }
   },
   "userRoles": {

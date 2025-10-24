@@ -281,16 +281,14 @@
           },
           {
             "key": "VIP_9438342e20590c4a7b968f398f82c407",
-            "hwid": {
-              "ad1e69e0-a4b6-429b-a1df-deafc1bc7ec8": 1761015267310
-            },
+            "hwid": {},
             "keyIndex": 3
           }
         ],
         "dailyLimit": 2,
         "resetToday": {
           "date": "Fri Oct 24 2025",
-          "count": 1
+          "count": 2
         }
       }
     },

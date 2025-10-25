@@ -68,14 +68,6 @@
       "used": false,
       "usedBy": null,
       "usedAt": null
-    },
-    "MTIDDQ9D": {
-      "roleId": "1411296365987889272",
-      "duration": 3,
-      "created": 1761392643599,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
     }
   },
   "userRoles": {
@@ -237,6 +229,16 @@
         "duration": 30,
         "createdAt": 1761241656438,
         "redeemedAt": 1761241675711
+      }
+    },
+    "947873795832676392": {
+      "1406957343815766149": {
+        "roleId": "1411296365987889272",
+        "expiryDate": 1761652122345,
+        "code": "MTIDDQ9D",
+        "duration": 3,
+        "createdAt": 1761392643599,
+        "redeemedAt": 1761392922345
       }
     }
   }

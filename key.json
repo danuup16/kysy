@@ -68,14 +68,6 @@
       "used": false,
       "usedBy": null,
       "usedAt": null
-    },
-    "55XR0O2T": {
-      "roleId": "1411296365987889272",
-      "duration": 7,
-      "created": 1761509454293,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
     }
   },
   "userRoles": {
@@ -267,6 +259,16 @@
         "duration": 7,
         "createdAt": 1761452809108,
         "redeemedAt": 1761453439864
+      }
+    },
+    "922039977217490954": {
+      "1406957343815766149": {
+        "roleId": "1411296365987889272",
+        "expiryDate": 1762118920694,
+        "code": "55XR0O2T",
+        "duration": 7,
+        "createdAt": 1761509454293,
+        "redeemedAt": 1761514120694
       }
     }
   }

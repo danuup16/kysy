@@ -60,14 +60,6 @@
       "used": false,
       "usedBy": null,
       "usedAt": null
-    },
-    "47V4IV1U": {
-      "roleId": "1412336702915219496",
-      "duration": 7,
-      "created": 1761509403480,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
     }
   },
   "userRoles": {
@@ -269,6 +261,16 @@
         "duration": 7,
         "createdAt": 1761509454293,
         "redeemedAt": 1761514120694
+      }
+    },
+    "1027605176535752794": {
+      "1406957343815766149": {
+        "roleId": "1412336702915219496",
+        "expiryDate": 1762132715673,
+        "code": "47V4IV1U",
+        "duration": 7,
+        "createdAt": 1761509403480,
+        "redeemedAt": 1761527915673
       }
     }
   }

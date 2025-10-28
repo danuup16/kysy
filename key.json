@@ -60,6 +60,14 @@
       "used": false,
       "usedBy": null,
       "usedAt": null
+    },
+    "H0FC1RI1": {
+      "roleId": "1412336702915219496",
+      "duration": 7,
+      "created": 1761659129479,
+      "used": false,
+      "usedBy": null,
+      "usedAt": null
     }
   },
   "userRoles": {

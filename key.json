@@ -60,14 +60,6 @@
       "used": false,
       "usedBy": null,
       "usedAt": null
-    },
-    "MFSUSVSC": {
-      "roleId": "1411296365987889272",
-      "duration": 3,
-      "created": 1762078414100,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
     }
   },
   "userRoles": {
@@ -229,6 +221,16 @@
         "duration": 7,
         "createdAt": 1761825882287,
         "redeemedAt": 1761826017800
+      }
+    },
+    "879669058579075123": {
+      "1406957343815766149": {
+        "roleId": "1411296365987889272",
+        "expiryDate": 1762340111895,
+        "code": "MFSUSVSC",
+        "duration": 3,
+        "createdAt": 1762078414100,
+        "redeemedAt": 1762080911895
       }
     }
   }

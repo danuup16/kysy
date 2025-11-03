@@ -68,14 +68,6 @@
       "used": false,
       "usedBy": null,
       "usedAt": null
-    },
-    "PPK4576C": {
-      "roleId": "1411296365987889272",
-      "duration": 3,
-      "created": 1762131940736,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
     }
   },
   "userRoles": {
@@ -217,6 +209,16 @@
         "duration": 3,
         "createdAt": 1762078414100,
         "redeemedAt": 1762080911895
+      }
+    },
+    "1434548674200862843": {
+      "1406957343815766149": {
+        "roleId": "1411296365987889272",
+        "expiryDate": 1762399575673,
+        "code": "PPK4576C",
+        "duration": 3,
+        "createdAt": 1762131940736,
+        "redeemedAt": 1762140375673
       }
     }
   }

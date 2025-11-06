@@ -68,14 +68,6 @@
       "used": false,
       "usedBy": null,
       "usedAt": null
-    },
-    "3KQC1FFC": {
-      "roleId": "1412336702915219496",
-      "duration": 10,
-      "created": 1762401196372,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
     }
   },
   "userRoles": {
@@ -177,6 +169,16 @@
         "duration": 7,
         "createdAt": 1761825882287,
         "redeemedAt": 1761826017800
+      }
+    },
+    "461171424523190284": {
+      "1406957343815766149": {
+        "roleId": "1412336702915219496",
+        "expiryDate": 1763270261667,
+        "code": "3KQC1FFC",
+        "duration": 10,
+        "createdAt": 1762401196372,
+        "redeemedAt": 1762406261667
       }
     }
   }

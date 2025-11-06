@@ -68,14 +68,6 @@
       "used": false,
       "usedBy": null,
       "usedAt": null
-    },
-    "ABBIPILJ": {
-      "roleId": "1411296365987889272",
-      "duration": 3,
-      "created": 1762429933404,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
     }
   },
   "userRoles": {
@@ -187,6 +179,16 @@
         "duration": 10,
         "createdAt": 1762401196372,
         "redeemedAt": 1762406261667
+      }
+    },
+    "966328721051123732": {
+      "1406957343815766149": {
+        "roleId": "1411296365987889272",
+        "expiryDate": 1762689232531,
+        "code": "ABBIPILJ",
+        "duration": 3,
+        "createdAt": 1762429933404,
+        "redeemedAt": 1762430032531
       }
     }
   }

@@ -239,38 +239,6 @@
         ],
         "dailyLimit": 2
       }
-    },
-    "1151440256885866517": {
-      "1406957343815766149": {
-        "keys": [
-          {
-            "key": "VIP_7f2405a23f11ffd8fc5c1bbfb503159d",
-            "hwid": {},
-            "keyIndex": 1
-          },
-          {
-            "key": "VIP_1843a70bcd902cb300c3e6eddacf3609",
-            "hwid": {},
-            "keyIndex": 3
-          },
-          {
-            "key": "VIP_e6db5cf144b54a7424c1bca422297c2d",
-            "hwid": {},
-            "keyIndex": 5
-          },
-          {
-            "key": "VIP_6a1ff227d1ce9018687256bfc9814ca4",
-            "hwid": {},
-            "keyIndex": 7
-          },
-          {
-            "key": "VIP_44249cc5bb62e7987857a17b86321a0d",
-            "hwid": {},
-            "keyIndex": 9
-          }
-        ],
-        "dailyLimit": 5
-      }
     }
   }
 }

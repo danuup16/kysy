@@ -60,14 +60,6 @@
       "used": false,
       "usedBy": null,
       "usedAt": null
-    },
-    "730DPY3Q": {
-      "roleId": "1411296365987889272",
-      "duration": 30,
-      "created": 1762519138276,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
     }
   },
   "userRoles": {
@@ -179,6 +171,16 @@
         "duration": 5,
         "createdAt": 1762081995778,
         "redeemedAt": 1762701370567
+      }
+    },
+    "1112377022602301510": {
+      "1406957343815766149": {
+        "roleId": "1411296365987889272",
+        "expiryDate": 1765516942553,
+        "code": "730DPY3Q",
+        "duration": 30,
+        "createdAt": 1762519138276,
+        "redeemedAt": 1762924942553
       }
     }
   }

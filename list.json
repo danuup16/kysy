@@ -277,13 +277,15 @@
           },
           {
             "key": "VIP_de47f0e290b9105d9b827f5c232d11ea",
-            "hwid": {
-              "2aa51e5f-64a8-433d-a8bb-d5dd31ae4427": 1762925427649
-            },
+            "hwid": {},
             "keyIndex": 3
           }
         ],
-        "dailyLimit": 2
+        "dailyLimit": 2,
+        "resetToday": {
+          "date": "Wed Nov 12 2025",
+          "count": 1
+        }
       }
     }
   }

@@ -1,30 +1,5 @@
 {
   "userRoles": {
-    "627097254657785856": {
-      "1406957343815766149": {
-        "keys": [
-          {
-            "key": "VIP_e64578d6fdd0f05efa130fdafa281e7f",
-            "hwid": {
-              "5f5cd502-ece0-45ed-931b-7b074ae52005": 1761710839564
-            },
-            "keyIndex": 1
-          },
-          {
-            "key": "VIP_f8dc82b1ad37faefc0eccf174a38593a",
-            "hwid": {
-              "66D45104-4A2F-4C49-A057-0DC2779C9849": 1761528655733
-            },
-            "keyIndex": 3
-          }
-        ],
-        "dailyLimit": 2,
-        "resetToday": {
-          "date": "Wed Oct 29 2025",
-          "count": 1
-        }
-      }
-    },
     "1082745209571524700": {
       "1406957343815766149": {
         "keys": [

@@ -60,14 +60,6 @@
       "used": false,
       "usedBy": null,
       "usedAt": null
-    },
-    "SGSWGTZG": {
-      "roleId": "1411296365987889272",
-      "duration": 3,
-      "created": 1763106247883,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
     }
   },
   "userRoles": {
@@ -169,6 +161,16 @@
         "duration": 30,
         "createdAt": 1762519138276,
         "redeemedAt": 1762924942553
+      }
+    },
+    "960608993527611502": {
+      "1406957343815766149": {
+        "roleId": "1411296365987889272",
+        "expiryDate": 1763365663801,
+        "code": "SGSWGTZG",
+        "duration": 3,
+        "createdAt": 1763106247883,
+        "redeemedAt": 1763106463801
       }
     }
   }

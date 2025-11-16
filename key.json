@@ -60,14 +60,6 @@
       "used": false,
       "usedBy": null,
       "usedAt": null
-    },
-    "TDDR8AVW": {
-      "roleId": "1411296365987889272",
-      "duration": 3,
-      "created": 1763265192493,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
     }
   },
   "userRoles": {
@@ -169,6 +161,16 @@
         "duration": 3,
         "createdAt": 1763106247883,
         "redeemedAt": 1763106463801
+      }
+    },
+    "643005509531729929": {
+      "1406957343815766149": {
+        "roleId": "1411296365987889272",
+        "expiryDate": 1763524462651,
+        "code": "TDDR8AVW",
+        "duration": 3,
+        "createdAt": 1763265192493,
+        "redeemedAt": 1763265262651
       }
     }
   }

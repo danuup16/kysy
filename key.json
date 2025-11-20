@@ -60,14 +60,6 @@
       "used": false,
       "usedBy": null,
       "usedAt": null
-    },
-    "ATZ7OMAH": {
-      "roleId": "1412336702915219496",
-      "duration": 14,
-      "created": 1763647845414,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null
     }
   },
   "userRoles": {
@@ -129,6 +121,16 @@
         "duration": 7,
         "createdAt": 1763362707024,
         "redeemedAt": 1763365283802
+      }
+    },
+    "507860814062157834": {
+      "1406957343815766149": {
+        "roleId": "1412336702915219496",
+        "expiryDate": 1764857551291,
+        "code": "ATZ7OMAH",
+        "duration": 14,
+        "createdAt": 1763647845414,
+        "redeemedAt": 1763647951292
       }
     }
   }
